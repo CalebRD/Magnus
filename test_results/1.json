@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: ugh today has been rough",
+        "Magnus: I'm sorry to hear that. Is there anything I can do to help",
+        "User: yeah, I'd really like to take some time to myself this saturday"
+    ],
+    "relevant_memories": ["User has art class scheduled for 17:00 this saturday, this cannot be rescheduled"],
+    "current_time": "12:00, 10/02/2024, Tuesday",
+    "expected_output": ["ask to cancel *art class*\n"],
+    "Test Results": ""
+}

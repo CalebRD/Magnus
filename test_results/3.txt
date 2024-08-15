@@ -1,0 +1,140 @@
+-------------------------------------------------------
+RESULTS OF TEST 1:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 2:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Sounds like a lovely invitation! What do you plan to do while you're over there?
+-------------------------------------------------------
+RESULTS OF TEST 3:
+DMC:  DMC SYSTEM: That's great to hear! Do you know what time you'll be going over to your friend's place? 
+
+
+
+NLP:  NL SYSTEM: It sounds like a delightful invitation! Do you have a particular time in mind for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 4:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That's wonderful to hear! Are you looking forward to spending time with your friend?
+-------------------------------------------------------
+RESULTS OF TEST 5:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! What are you most looking forward to about your visit?
+-------------------------------------------------------
+RESULTS OF TEST 6:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 7:
+DMC:  DMC SYSTEM: That's great to hear! Do you have any plans for the visit with your friend? If you need help scheduling something, let me know!
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! Do you have any specific plans or activities in mind for your visit with your friend? If you need assistance with scheduling or organizing anything, feel free to let me know!
+-------------------------------------------------------
+RESULTS OF TEST 8:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! What do you plan to do at your friend's place?
+-------------------------------------------------------
+RESULTS OF TEST 9:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 10:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you plan to do while you’re over there?
+-------------------------------------------------------
+RESULTS OF TEST 11:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! Spending time with friends can be quite refreshing. What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 12:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: That sounds pleasant! What do you and your friend have planned for the day?
+-------------------------------------------------------
+RESULTS OF TEST 13:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! A visit with friends can be a delightful way to spend the day. Do you have any special plans for your time together?
+-------------------------------------------------------
+RESULTS OF TEST 14:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! What are you most looking forward to during your visit?
+-------------------------------------------------------
+RESULTS OF TEST 15:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 16:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds delightful! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 17:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What are you planning to do at your friend's place?
+-------------------------------------------------------
+RESULTS OF TEST 18:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you plan on doing at your friend's place?
+-------------------------------------------------------
+RESULTS OF TEST 19:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What do you have planned for your visit?
+-------------------------------------------------------
+RESULTS OF TEST 20:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: That sounds lovely! What are you looking forward to the most about visiting your friend?

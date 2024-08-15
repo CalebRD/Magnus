@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey, do we have any food in the fridge?",
+        "Magnus: I'm afraid not much",
+        "User: hm, I guess I'll have to go shopping, can we schedule that for 5:00pm"
+    ],
+    "relevant_memories": ["User has soccer practice scheduled for 17:00:00, 11/07/2023"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["inform user about conflict"],
+    "Test Results": ""
+}

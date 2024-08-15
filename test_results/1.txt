@@ -1,0 +1,140 @@
+-------------------------------------------------------
+RESULTS OF TEST 1:
+DMC:  DMC SYSTEM: ask user about time for taking time to himself on 10-07-2024, ask to schedule time for taking time to himself on 10-07-2024
+
+
+
+NLP:  NL SYSTEM: It is commendable that you wish to allocate time for yourself. On Saturday, October 7th, 2024, do you have a specific time in mind when you would like to dedicate this time for personal reflection or relaxation? It may be beneficial to schedule it to ensure you truly embrace the moment.
+-------------------------------------------------------
+RESULTS OF TEST 2:
+DMC:  DMC SYSTEM: ask user about time
+
+
+
+NLP:  NL SYSTEM: That sounds like a splendid idea for self-care. May I inquire about what time you plan to dedicate to yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 3:
+DMC:  DMC SYSTEM: ask to schedule time for 10-07-2024, 12:00:00
+
+
+
+NLP:  NL SYSTEM: Certainly! Would you like me to help you schedule some personal time for yourself on Saturday, October 7th, 2024, at 12:00 PM? It's important to carve out moments for self-care.
+-------------------------------------------------------
+RESULTS OF TEST 4:
+DMC:  DMC SYSTEM: ask user about time for personal time on 10-07-2024
+
+
+
+NLP:  NL SYSTEM: What a splendid idea to carve out some personal time! On the date of October 7th, 2024, do you have any specific time in mind for this much-deserved retreat?
+-------------------------------------------------------
+RESULTS OF TEST 5:
+DMC:  DMC SYSTEM: ask user about time for time to yourself this saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a splendid idea. May I inquire what time you are considering for this time to yourself on Saturday?     
+-------------------------------------------------------
+RESULTS OF TEST 6:
+DMC:  DMC SYSTEM: ask user about the time you'd like to take for yourself this Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a lovely idea. What time do you envision taking for yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 7:
+DMC:  DMC SYSTEM: ask user about time for taking time to themselves this saturday
+
+
+
+NLP:  NL SYSTEM: That's a commendable decision. What time are you considering for your personal time this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 8:
+DMC:  DMC SYSTEM: ask user about time for time to myself
+
+
+
+NLP:  NL SYSTEM: That sounds like a wonderful idea. What time were you thinking of dedicating to yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 9:
+DMC:  DMC SYSTEM: ask to schedule time for 10-07-2024, 10:00:00
+
+
+
+NLP:  NL SYSTEM: I understand that you’d like to take some time for yourself this Saturday. Would you like me to help schedule that for October 7th, 2024, at 10:00 AM?
+-------------------------------------------------------
+RESULTS OF TEST 10:
+DMC:  DMC SYSTEM: ask user about time for taking time to themselves this Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a wonderful idea. Do you have a specific time in mind for when you would like to take that time for yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 11:
+DMC:  DMC SYSTEM: ask user about time for taking time to themselves this Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a peaceful idea. What time do you plan to take for yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 12:
+DMC:  DMC SYSTEM: ask user about time for Saturday
+
+
+
+NLP:  NL SYSTEM: It sounds like a well-deserved break. What time are you thinking of taking for yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 13:
+DMC:  DMC SYSTEM: ask user about time for taking time to themselves
+
+
+
+NLP:  NL SYSTEM: That sounds like a wise decision. Do you have a specific time in mind for indulging in some self-care this Saturday?     
+-------------------------------------------------------
+RESULTS OF TEST 14:
+DMC:  DMC SYSTEM: ask user about what time they would like to take for themselves on Saturday
+
+
+
+NLP:  NL SYSTEM: What time on Saturday do you envision taking for yourself? It's truly vital to carve out moments for self-reflection and rejuvenation.
+-------------------------------------------------------
+RESULTS OF TEST 15:
+DMC:  DMC SYSTEM: ask user about the time they would like to take for themselves on Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a wonderful idea. What time do you envision setting aside for yourself on Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 16:
+DMC:  DMC SYSTEM: ask user about what time they would like to take for themselves on Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a wonderful idea. What time do you envision for taking that well-deserved time for yourself this Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 17:
+DMC:  DMC SYSTEM: ask user about time for taking time to themselves this Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a splendid idea. Do you have a specific time in mind when you would like to take this time for yourself on Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 18:
+DMC:  DMC SYSTEM: ask to schedule time for 10-07-2024, 00:00:00
+
+
+
+NLP:  NL SYSTEM: It appears you would like to schedule some personal time for yourself on Saturday, October 7th, 2024. Would you like me to assist you in setting that up?
+-------------------------------------------------------
+RESULTS OF TEST 19:
+DMC:  DMC SYSTEM: ask user about what time they would like to take for themselves on Saturday
+
+
+
+NLP:  NL SYSTEM: That sounds like a wonderful idea! What time do you envision taking for yourself on Saturday?
+-------------------------------------------------------
+RESULTS OF TEST 20:
+DMC:  DMC SYSTEM: ask user about time for self-care on 10-07-2024
+
+
+
+NLP:  NL SYSTEM: I understand the importance of self-care, especially after a challenging day. What specific time do you envision for your moments of rejuvenation on Saturday, October 7th, 2024?

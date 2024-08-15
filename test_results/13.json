@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: I don't know what to do with my self today honestly",
+        "Magnus: I'm sorry to hear that, would you like a suggestion?",
+        "User: sure, go for it"
+    ],
+    "relevant_memories": ["User enjoys drawing"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["inform user about drawing"],
+    "Test Results": ""
+}

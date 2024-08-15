@@ -1,0 +1,146 @@
+RESULTS OF TEST 1:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It appears that you may wish to cancel soccer practice. Would you like assistance in arranging that?
+-------------------------------------------------------
+RESULTS OF TEST 2:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead. Would you like to consider canceling soccer practice for today? It could be a nice opportunity to spend quality time with your parents.
+-------------------------------------------------------
+RESULTS OF TEST 3:
+DMC:  DMC SYSTEM: ask user about what time they plan to visit their parents
+
+
+
+NLP:  NL SYSTEM: What time do you plan to visit your parents today?
+-------------------------------------------------------
+RESULTS OF TEST 4:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It seems you will be quite occupied visiting your parents today. Would you like assistance in canceling your soccer practice?
+-------------------------------------------------------
+RESULTS OF TEST 5:
+DMC:  DMC SYSTEM: ask to cancel soccer practice at 14:00 today
+
+
+
+NLP:  NL SYSTEM: It seems there may be a conflict with your schedule today. Would you like to cancel your soccer practice at 14:00 to allocate more time for your visit with your parents?
+-------------------------------------------------------
+RESULTS OF TEST 6:
+DMC:  DMC SYSTEM: ask user about what time they need to leave to visit their parents, ask to cancel soccer practice for 14:00 on 11-07-2023.
+
+
+
+NLP:  NL SYSTEM: What time do you need to leave to visit your parents today? Additionally, would you like me to cancel your soccer practice set for 14:00 on the 11th of July, 2023?
+-------------------------------------------------------
+RESULTS OF TEST 7:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: That sounds like a full day ahead of you. If I may suggest, would it be beneficial to consider canceling any soccer practice? This could allow you to fully enjoy your time with your parents without feeling rushed. What are your thoughts on that?
+-------------------------------------------------------
+RESULTS OF TEST 8:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead visiting your parents. Would you like to consider canceling soccer practice today to fully enjoy your time with them?
+-------------------------------------------------------
+RESULTS OF TEST 9:
+DMC:  DMC SYSTEM: ask to cancel soccer practice for 14:00, ask user about when they will visit their parents
+
+
+
+NLP:  NL SYSTEM: It sounds like you have a busy day ahead! Would you like me to help you cancel your soccer practice scheduled for 14:00? Also, when do you plan on visiting your parents?
+-------------------------------------------------------
+RESULTS OF TEST 10:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It appears that I need to ask you about your soccer practice plans. Would you like to consider canceling soccer practice today, given your visit to your parents?
+-------------------------------------------------------
+RESULTS OF TEST 11:
+DMC:  DMC SYSTEM: ask to cancel soccer practice event at 14:00, ask user about new date/time for visit to parents
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead. Would you like to cancel your soccer practice scheduled for 14:00? Additionally, when do you plan to reschedule your visit to your parents?
+-------------------------------------------------------
+RESULTS OF TEST 12:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It appears you have a busy day ahead with your parents. Would you like to consider postponing your soccer practice? It might give you more time to spend with them.
+-------------------------------------------------------
+RESULTS OF TEST 13:
+DMC:  DMC SYSTEM: ask to schedule soccer practice for 14:00, ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: Would you like me to schedule soccer practice for 14:00 today? Additionally, do you want me to cancel a previously scheduled practice? Please confirm your preferences.
+-------------------------------------------------------
+RESULTS OF TEST 14:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It sounds like you have a busy day ahead. If your visit to your parents will take the entire day, would you like to consider canceling your soccer practice? It might be a good opportunity to focus fully on your family. What do you think?
+-------------------------------------------------------
+RESULTS OF TEST 15:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead, but may I suggest considering a cancelation of your soccer practice? It could allow for a more relaxed visit with your parents. What are your thoughts on that?
+-------------------------------------------------------
+RESULTS OF TEST 16:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead visiting your parents. If this means you'd like to cancel your soccer practice, I can assist with that. Would you like me to help you draft a message or notification to inform your coach or teammates?
+-------------------------------------------------------
+NLP:  NL SYSTEM: It seems you have a busy day ahead visiting your parents. If this means you'd like to cancel your soccer practice, I can assist with that. Would you like me to help you draft a message or notification to inform your coach or teammates?
+-------------------------------------------------------
+assist with that. Would you like me to help you draft a message or notification to inform your coach or teammates?
+-------------------------------------------------------
+-------------------------------------------------------
+RESULTS OF TEST 17:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It sounds like you have a busy day ahead visiting your parents. In light of that, would you like to consider canceling your soccer practice? It could provide you with a bit more time to enjoy your visit.
+-------------------------------------------------------
+RESULTS OF TEST 18:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It sounds like you have a busy day ahead. If it would be beneficial, would you like me to assist you in canceling soccer practice for today?
+-------------------------------------------------------
+RESULTS OF TEST 19:
+DMC:  DMC SYSTEM: ask to cancel soccer practice
+
+
+
+NLP:  NL SYSTEM: It seems you have a busy day ahead visiting your parents. Would you like me to assist you in canceling soccer practice for today?
+-------------------------------------------------------
+RESULTS OF TEST 20:
+DMC:  DMC SYSTEM: ask to cancel soccer practice for 14:00, ask user about what time they will visit their parents today
+
+
+
+NLP:  NL SYSTEM: It sounds like a busy day ahead! Would you like to cancel your soccer practice scheduled for 14:00? Also, what time do you plan on visiting your parents today?

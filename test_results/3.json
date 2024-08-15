@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey Magnus, how are you?",
+        "Magnus: It's very good, thank you, how was your day?",
+        "User: It was nice. Hey, my friend invited me over today."
+    ],
+    "relevant_memories": ["User has many friends"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["Ask to schedule friend visit and/or what time to schedule friend visit"],
+    "Test Results": ""
+}

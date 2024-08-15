@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: I'm home, hows it going?",
+        "Magnus: It's very good, thank you, how was your day?",
+        "User: It was nice, it was nice. I stink though. Think I gotta do laundry today"
+    ],
+    "relevant_memories": ["User has soccer practice at 16:00 11/07/2023, this can be canceled, but not rescheduled, do not cancel if possible"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["schedule laundry an hour or more before practice*\n"],
+    "Test Results": ""
+}

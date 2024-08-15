@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey Magnus, can you do me a favor?",
+        "Magnus: Sure! I'm happy to help.",
+        "User: Can you add my meeting to my schedule please? It's at 2:00pm today"
+    ],
+    "relevant_memories": ["User has a work lunch at 14:00 today"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["Ask to reschedule work lunch"],
+    "Test Results": ""
+}

@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey magnus, what's up?",
+        "Magnus: How are you?",
+        "User: I'm good, my friends just called. They want me to come over around 4:00pm"
+    ],
+    "relevant_memories": ["none"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["schedule friend trip"],
+    "Test Results": ""
+}

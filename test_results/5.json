@@ -1,0 +1,13 @@
+{
+    "context": [
+        "User: Hey magnus, what's up?",
+        "Magnus: I'm just here",
+        "User: Fair enough lol",
+        "Magnus: What do you have planned today",
+        "User: Oh yeah, I've gotta go visit my parents today, it'll take all day"
+    ],
+    "relevant_memories": ["User has soccer practice at 14:00 today, this can be canceled, but not rescheduled"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["Ask to cancel soccer practice"],
+    "Test Results": ""
+}

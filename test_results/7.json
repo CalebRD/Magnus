@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey magnus, what's up?",
+        "Magnus: not much, What about you?",
+        "User: I'm just watching tv, I really like this show, and I honestly don't wanna do laundry later."
+    ],
+    "relevant_memories": ["user has laundry scheduled for 16:00, 11/07/2023"],
+    "current_time": "12:00, 11/07/2023, Wednesday",
+    "expected_output": ["reschedule laundry"],
+    "Test Results": ""
+}

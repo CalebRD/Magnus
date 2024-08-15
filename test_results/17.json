@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey, do we have any food in the fridge?",
+        "Magnus: I'm afraid not much",
+        "User: hm, what should I do"
+    ],
+    "relevant_memories": ["none"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["ask to schedule shopping"],
+    "Test Results": ""
+}

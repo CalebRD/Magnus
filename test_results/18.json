@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Hey, I'm pretty busy can you help me out?",
+        "Magnus: Perhaps, what do you need",
+        "User: Well I need to work on my computer today, but I don't want to overschedule."
+    ],
+    "relevant_memories": ["user has a meeting at 15:00:00"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["inform user about meeting, and/or scheudle computer time so that it doen't conflict"],
+    "Test Results": ""
+}

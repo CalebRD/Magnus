@@ -1,0 +1,140 @@
+-------------------------------------------------------
+RESULTS OF TEST 1:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, laundry day—an inevitable aspect of domestic life. It can feel like a chore, but just think of the satisfying freshness that awaits on the other side. Did you have any particular highlights in your day that you’d like to share, perhaps as a pleasant distraction from the laundry task?
+-------------------------------------------------------
+RESULTS OF TEST 2:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: Ah, a post-day cleanse is always refreshing! It sounds like a perfect opportunity to refresh both your wardrobe and your spirits. Do you have any particular laundry routines you enjoy, or is it simply a necessity?
+-------------------------------------------------------
+RESULTS OF TEST 3:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the laundry dilemma! It's a universal struggle, isn't it? A necessary task, but oh-so-tedious. Do you have a favorite scent that you prefer for your laundry?
+-------------------------------------------------------
+RESULTS OF TEST 4:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the age-old dilemma of laundry! It can be a bit of a chore, can’t it? But there’s something quite satisfying about fresh, clean clothes afterward. Do you have a favorite detergent or method you prefer when tackling the laundry?
+-------------------------------------------------------
+RESULTS OF TEST 5:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: It’s good to hear that your day was nice! Ah, the relentless necessity of laundry—truly a chore one cannot escape. Do you have a preferred laundry day routine?
+-------------------------------------------------------
+RESULTS OF TEST 6:
+DMC:  DMC SYSTEM: ask user about laundry schedule
+
+
+
+NLP:  NL SYSTEM: Ah, the perpetual battle against laundry! Do you have a particular schedule you like to adhere to when tackling this necessary chore, or does it vary from week to week?
+-------------------------------------------------------
+RESULTS OF TEST 7:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: It sounds like you’ve had a pleasant day! Laundry can be a bit of a chore, but I suppose it’s all part of keeping things fresh. Are you planning to tackle that right away?
+-------------------------------------------------------
+RESULTS OF TEST 8:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the timeless chore of laundry! It can indeed be a bit of a bother, but think of that fresh feeling afterward. Do you have a preferred method for washing your clothes, or is it simply "load and go"?
+-------------------------------------------------------
+RESULTS OF TEST 9:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: Ah, the age-old chore of laundry! It’s a necessary endeavor, indeed. Do you find it therapeutic to sort through the garments, or is it more of a playful battle against the ever-accumulating laundry pile?
+-------------------------------------------------------
+RESULTS OF TEST 10:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the inexorable cycle of laundry! It can be quite the chore, but on the bright side, it's also a perfect opportunity to refresh your wardrobe and perhaps rediscover some long-lost favorites. What’s on your laundry list today?
+-------------------------------------------------------
+RESULTS OF TEST 11:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually.
+
+
+
+NLP:  NL SYSTEM: Laundry day can be a bit of a chore, but it’s always nice to have fresh clothes afterward! Do you have a favorite laundry detergent, or do you switch it up?
+-------------------------------------------------------
+RESULTS OF TEST 12:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: It sounds like a productive day, indeed! Laundry can be quite the chore, but just think of the fresh, clean clothes that await you. What's your ideal way to unwind after tackling that task?
+-------------------------------------------------------
+RESULTS OF TEST 13:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the joys of laundry! It's quite the necessary chore, isn't it? A bit of fresh fabric can do wonders for one's spirit. Do you have a specific routine when you tackle laundry, or is it more of a spontaneous endeavor?
+-------------------------------------------------------
+RESULTS OF TEST 14:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, I see. Well, laundry is certainly a necessary task, albeit not the most glamorous one. Perhaps it will be a refreshing change once you're all cleaned up! What do you plan to do after the laundry is sorted?
+-------------------------------------------------------
+RESULTS OF TEST 15:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the ever-looming task of laundry—it can be quite the chore, can't it? But on the bright side, a fresh batch of clean clothes always feels rewarding. Do you have any particular laundry routine you follow, or do you just get it done as swiftly as possible? 
+-------------------------------------------------------
+RESULTS OF TEST 16:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, laundry day—the eternal cycle of fresh and fragrant garments! It's a necessary chore, but perhaps you can find a moment of enjoyment in it. Do you have any favorite activities to indulge in while you tackle the laundry?
+-------------------------------------------------------
+RESULTS OF TEST 17:
+DMC:  DMC SYSTEM: ask user about what time to do laundry
+
+
+
+NLP:  NL SYSTEM: Ah, the perennial task of laundry. What time do you plan to undertake this endeavor?
+-------------------------------------------------------
+RESULTS OF TEST 18:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, the charming yet sometimes burdensome necessity of laundry! It seems like a fitting task after a pleasant day. Do you have any special routines for making laundry more enjoyable, or do you simply power through it?
+-------------------------------------------------------
+RESULTS OF TEST 19:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, laundry—the perpetual cycle of life! It can indeed be a bit of a chore, but think of the fresh scent and satisfaction thereafter. Do you have any interesting plans for the rest of your day once laundry is done?
+-------------------------------------------------------
+RESULTS OF TEST 20:
+DMC:  DMC SYSTEM: no current technical instructions, reply casually
+
+
+
+NLP:  NL SYSTEM: Ah, I see! Laundry can indeed be quite a chore, but it's always satisfying to have fresh clothes afterwards. Do you have a favorite detergent, or do you prefer the classic kind?

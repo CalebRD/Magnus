@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: Man, I sure am hungry",
+        "Magnus: would you like to eat now?",
+        "User: I'd be down, but I don't know what to eat."
+    ],
+    "relevant_memories": ["User enjoys 'jims takeout'; a restaurant downtown"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["inform user about jims takeout"],
+    "Test Results": ""
+}

@@ -1,0 +1,11 @@
+{
+    "context": [
+        "User: I'd like to get outside today I think.",
+        "Magnus: any ideas as to what you'd like to do?",
+        "User: It'd be nice to take my skateboard out."
+    ],
+    "relevant_memories": ["There's a skate park down town"],
+    "current_time": "12:00:00, 11/07/2023, Wednesday",
+    "expected_output": ["inform user about the skate park"],
+    "Test Results": ""
+}
